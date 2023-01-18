@@ -1,0 +1,11 @@
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\bin\Debug\fithing game demo.exe.config
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\bin\Debug\fithing game demo.exe
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\bin\Debug\fithing game demo.pdb
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.csproj.AssemblyReference.cache
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.csproj.SuggestedBindingRedirects.cache
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing_game_demo.Form1.resources
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing_game_demo.Properties.Resources.resources
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.csproj.GenerateResource.cache
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.csproj.CoreCompileInputs.cache
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.exe
+E:\visualstudio\fithing game demo\fithing game demo\fithing game demo\obj\Debug\fithing game demo.pdb
