@@ -16,4 +16,3 @@ Things i learned during this project :
 * Refine my skills with languages and frameworks, such as C#, .NET, abd Windows Forms.
 
 
-Overall, the code is well-organized and uses appropriate names for the classes, methods, and variables. However, there are some parts of the code that could be improved, such as using try-catch blocks for file I/O operations, using constants instead of hard-coded strings, and using properties instead of public fields.
