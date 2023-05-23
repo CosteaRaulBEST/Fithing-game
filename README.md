@@ -1,19 +1,31 @@
 # Fithing-game
-Video Game in windows form apps.
+I have recently developed a captivating video game using Windows Forms applications. This project aims to deliver an engaging fighting game experience for players. The game features a Player class that encompasses various attributes, including health, damage, position, image, and animation. It also incorporates abstract methods that define the behavior of the players in the game.
 
-The Player class contains a set of variables that are used to represent the state of a player in a fighting game, such as health, damage, playerImage, PlayerPosition, PlayerWidth, PlayerHeight, speed, isMovingLeft, isMovingRight, isBlocking, isDead, isMoving, isLeft, isRight, isAttacking, isHitted, playeridleimgnum, playermovingimgnum, playeratackingnum, playerdamagedimgnum, and attacksound.
+## Description:
 
-The Player class also contains a set of abstract methods that define the behavior of a player in the game, such as SetPictureBox, Move, setAttackStance, setNormalStance, setBlockStance, setIdleAnimation, PlayerHits, setMovingAnimation, setGetHitted, FlipImage, SetVictorystance, CheckRoundWinner, and SetAtackAnimation.
+### Player Class:
++ Contains variables for player attributes such as health, damage, image, position, size, speed, and various flags for movement, blocking, and status.
++ Provides abstract methods for setting the player's image, handling movement, stances (attack, normal, block), animations, hit detection, flipping image, victory stance, round winner checking, and attack animation.
 
-The Player1/Player2 class is a concrete class that extends the Player class and provides an implementation for the abstract methods. The implementation of the methods in Player1 class are specific to Player1 behavior and are used to set the image, location, and animation of the player in the game.
+### Player1/Player2 Classes:
++ Concrete classes that extend the Player class.
++ Implement specific behavior, such as setting image, location, and animation, for Player1 and Player2.
 
-The "Form1" class represents the main form of the application. It contains various controls such as buttons, timers, progress bars, and images.
-The "Engine" class is a custom class that handles the game logic. It contains instances of two player classes, "Player1" and "Player2", and various methods for updating the game state.
-Things i learned during this project :
-* Problem-solving skills and techniques for debugging and troubleshooting cod Good software development practices, such as version control, testing, and documentation.
-* I managed to concretize programming concepts learned from class such as OOP, abstraction, polymorphism, inheritance.
-* Collaboration and communication skills for working on software development projects with others.
-* Refine my skills with languages and frameworks, such as C#, .NET, abd Windows Forms.
+### Form1 Class:
++ Represents the main application form.
++ Contains controls like buttons, timers, progress bars, and images.
++ Interacts with the game engine to handle user input and update the game state.
+
+### Engine Class:
++ Custom class responsible for game logic.
++ Manages instances of Player1 and Player2 classes.
++ Provides methods for updating game state, handling player interactions, and managing rounds.
++ 
+## Learning Outcomes:
++ Problem-solving skills and techniques for debugging and troubleshooting cod Good software development practices, such as version control, testing, and documentation.
++ I managed to concretize programming concepts learned from class such as OOP, abstraction, polymorphism, inheritance.
++ Collaboration and communication skills for working on software development projects with others.
++ Refine my skills with languages and frameworks, such as C#, .NET, abd Windows Forms.
 
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f69c520f-b5f6-49d7-8364-2c884b562308" width="4500">
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/01a91545-7923-466b-b372-426486f0dcd8" width="4500">
