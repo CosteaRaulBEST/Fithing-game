@@ -20,7 +20,7 @@ I have recently developed a captivating video game using Windows Forms applicati
 + Custom class responsible for game logic.
 + Manages instances of Player1 and Player2 classes.
 + Provides methods for updating game state, handling player interactions, and managing rounds.
-+ 
+
 ## Learning Outcomes:
 + Problem-solving skills and techniques for debugging and troubleshooting cod Good software development practices, such as version control, testing, and documentation.
 + I managed to concretize programming concepts learned from class such as OOP, abstraction, polymorphism, inheritance.
