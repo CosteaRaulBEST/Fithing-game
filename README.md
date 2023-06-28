@@ -31,14 +31,7 @@ I have recently developed a captivating video game using Windows Forms applicati
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/01a91545-7923-466b-b372-426486f0dcd8" width="4500">
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f4ff960c-9f2b-4baf-b83a-94b8ce420bc2" width="4500">
 
-<p align="center">
-  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f69c520f-b5f6-49d7-8364-2c884b562308" width="450" alt="GIF 1">
-  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/01a91545-7923-466b-b372-426486f0dcd8" width="450" alt="GIF 2">
-</p>
 
-<p align="center">
-  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f4ff960c-9f2b-4baf-b83a-94b8ce420bc2" width="450" alt="GIF 3">
-</p>
 
 <p align="center">
   <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/47f0898a-a608-4927-8ccd-eb90704a05b0" alt="GIF 4" width="200" style="margin-right: 50px;">
