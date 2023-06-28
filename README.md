@@ -31,12 +31,37 @@ I have recently developed a captivating video game using Windows Forms applicati
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/01a91545-7923-466b-b372-426486f0dcd8" width="4500">
 <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f4ff960c-9f2b-4baf-b83a-94b8ce420bc2" width="4500">
 
-![idle](https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/47f0898a-a608-4927-8ccd-eb90704a05b0)
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f69c520f-b5f6-49d7-8364-2c884b562308" width="450" alt="GIF 1">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/01a91545-7923-466b-b372-426486f0dcd8" width="450" alt="GIF 2">
+</p>
 
-![attackgif](https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/4aa5ed07-4dc3-4bdd-b41b-915b8928da1f)
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/f4ff960c-9f2b-4baf-b83a-94b8ce420bc2" width="450" alt="GIF 3">
+</p>
 
-![damagedgif](https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/24bec00d-e9b2-4355-9fd2-0068255404ab)
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/47f0898a-a608-4927-8ccd-eb90704a05b0" alt="GIF 4" width="200" style="margin-right: 50px;">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/5c2ff074-3ba3-4e0e-989e-e3cbb5cab15e" alt="GIF 5" width="200">
+</p>
 
-![moving](https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/d29ec22e-d674-445d-92ce-3a01e2c52e62)
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/4aa5ed07-4dc3-4bdd-b41b-915b8928da1f" alt="GIF 6" width="200" style="margin-right: 50px;">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/fd64d489-7c98-44c2-a793-2f69cfa517ba" alt="GIF 7" width="200">
+</p>
 
-![player1blockstance](https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/c7fd9cb9-a015-4ede-84fe-76ac855ea73d)
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/24bec00d-e9b2-4355-9fd2-0068255404ab" alt="GIF 8" width="200" style="margin-right: 50px;">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/3ad7222c-04e9-4b70-9a50-0a25b8640545" alt="GIF 9" width="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/d29ec22e-d674-445d-92ce-3a01e2c52e62" alt="GIF 10" width="200" style="margin-right: 50px;">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/b9654636-6e11-4876-bbb3-ed75d60267df" alt="GIF 11" width="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/c7fd9cb9-a015-4ede-84fe-76ac855ea73d" alt="GIF 12" width="200" style="margin-right: 50px;">
+  <img src="https://github.com/CosteaRaulBEST/Fithing-game/assets/91869309/0348ead8-0e96-40fd-8e12-5a62a2ecbd08" alt="GIF 13" width="200">
+</p>
+
