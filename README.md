@@ -1,7 +1,7 @@
 # Fithing-game
-I have recently developed a captivating video game using Windows Forms applications. This project aims to deliver an engaging fighting game experience for players. The game features a Player class that encompasses various attributes, including health, damage, position, image, and animation. It also incorporates abstract methods that define the behavior of the players in the game.
+I have recently developed a rudimentary video game using Windows Forms applications. This project aims to deliver an engaging fighting game experience for players. The game features a Player class that encompasses various attributes, including health, damage, position, image, and animation. It also incorporates abstract methods that define the behavior of the players in the game.
 
-## Description:
+## Description of the code:
 
 ### Player Class:
 + Contains variables for player attributes such as health, damage, image, position, size, speed, and various flags for movement, blocking, and status.
